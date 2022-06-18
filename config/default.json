@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://webabdu:7QnWa5VKQ%40iiVQG@cluster0.zdhbjk6.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "Abdufattox react dev",
+    "baseUrl": "http://localhost:5000"
+}
